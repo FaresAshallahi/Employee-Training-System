@@ -24,13 +24,15 @@ The functions that the system includes are:
 5. Edit the notes for an employee.
 
 
+![Screen Shot 2023-04-11 at 00 44 54](https://user-images.githubusercontent.com/45584320/236481872-e25649bd-9bb1-4ba6-aa24-54057b36a9a8.png)
+
 ![Screen Shot 2023-04-11 at 00 47 29](https://user-images.githubusercontent.com/45584320/236480710-19bac995-3926-4715-92fa-9aa5b32de065.png)
 
 
 ![Screen Shot 2023-04-11 at 00 45 12](https://user-images.githubusercontent.com/45584320/236481834-583df405-f83a-4bce-bd27-7dbd4ef52d1f.png)
 
 
-![Screen Shot 2023-04-11 at 00 44 54](https://user-images.githubusercontent.com/45584320/236481872-e25649bd-9bb1-4ba6-aa24-54057b36a9a8.png)
+
 
 
 ![we](https://user-images.githubusercontent.com/45584320/236481957-bba68cee-ef95-49bb-818a-07b6bd987f41.png)
@@ -69,5 +71,5 @@ The system includes:
 * Testing plan 
 * Tests for validity and browser compatibility.
 
-![Screen Shot 2023-04-11 at 00 47 29](https://user-images.githubusercontent.com/45584320/236481664-c3a4340a-ce18-44fe-b02c-ea8662820e2c.png)
+
 
