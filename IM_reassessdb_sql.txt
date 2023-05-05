@@ -1,0 +1,17 @@
+DROP TABLE training;
+CREATE TABLE training (
+	emp_id varchar(6), 
+	qual_date date, 
+	course varchar(24)
+);
+
+DROP TABLE employee;
+CREATE TABLE employee (
+	emp_id varchar(6) primary key, 
+	emp_name varchar(40),
+	status varchar(12), 
+	job_title varchar(40), 
+	manager varchar(40), 
+	site_no varchar(8), 
+	notes varchar(250)
+);
