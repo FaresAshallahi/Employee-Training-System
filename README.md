@@ -7,12 +7,12 @@
 
 
 
-*** A project name ***
+*** A project name ***  <br>
 Employee Training System
 
-*** A project description ***
+*** A project description ***  <br>
 A web-based application to provide functions  
-for an employee training system
+for an employee training system  <br>
 
 Design a "web-based application" to provide the functions listed for "an employee training system".
 The functions that the system includes are:
