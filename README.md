@@ -24,7 +24,6 @@ The functions that the system includes are:
 5. Edit the notes for an employee.
 
 
-![Screen Shot 2023-04-11 at 00 44 54](https://user-images.githubusercontent.com/45584320/236481872-e25649bd-9bb1-4ba6-aa24-54057b36a9a8.png)
 
 
 
