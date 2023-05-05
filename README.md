@@ -11,8 +11,7 @@
 Employee Training System
 
 *** A project description ***  <br>
-A web-based application to provide functions  
-for an employee training system  <br>
+A web-based application to provide functions for an employee training system  <br>
 
 Design a "web-based application" to provide the functions listed for "an employee training system".
 The functions that the system includes are:
@@ -48,16 +47,16 @@ The functions that the system includes are:
 Scenario:
 A local catering company has more than 1200 employees and needs a system to maintain a record of the training courses they have completed and the date they completed them (i.e. course title and completion date). Many of these courses must be periodically re-taken (e.g. a first aid course must be retaken every two years). Records of courses that an employee has taken must be kept for seven years. (For example, if an employee retakes a course, the old record must be kept and not overwritten with the new record.) The employee information kept for this application is employee name, manager, job title, work location, status (active or inactive), and notes about other relevant qualifications and training.
 
-***  work assessment ***
-The work was evaluated based on the following:
-Layout, structure, appearance, navigation and quality of the HTML coding
+***  work assessment ***  <br>
+The work was evaluated based on the following:  <br>
+Layout, structure, appearance, navigation and quality of the HTML coding  <br>
  Search capabilities, servlet construction, JDBC connection Quality of documentation 
 
 -----------------------------------
 
 
 The application was based on  HTML with Java servlets and a database (Postgres)
-This application build by using NetBeans.
+This application build by using NetBeans. <br>
 The data was being stored in a Postgres database and accessed via Java servlets and JSPs. 
 -----------------------------------
 The HTML design is simple, clearly laid out and it being compliant with the HTML5 standard.
